@@ -5,6 +5,7 @@ pink
 orange
 blue
 green
+yellow
 red
 
 These are the colors.
