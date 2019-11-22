@@ -1,0 +1,9 @@
+Colors
+
+Purple
+pink
+orange
+blue
+red
+
+These are the colors.
